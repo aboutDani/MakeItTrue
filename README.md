@@ -2,7 +2,7 @@ Informazioni:
 
 > Daniele Mariella   
 > Matricola: 261064   
-> MakeItTrue
+> Titolo: MakeItTrue
 
 ## Specifica del Software
 
